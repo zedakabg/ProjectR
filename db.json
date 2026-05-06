@@ -1,0 +1,14 @@
+{
+  "hotels": [
+    {
+      "id": 1,
+      "name": "Hotel Orlovetz",
+      "image": "/Photos/hotel1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Perelik Hotel",
+      "image": "/Photos/hotel2.jpg"
+    }
+  ]
+}

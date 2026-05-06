@@ -4,6 +4,7 @@ import Home from "./pages/Home";
 import Login from "./pages/Login";
 import Register from "./pages/Register";
 import Summer from "./pages/Summer";
+import "./App.css";
 
 function App() {
   return (

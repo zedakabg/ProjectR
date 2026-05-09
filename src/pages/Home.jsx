@@ -1,7 +1,7 @@
 function Home() {
   return (
     <div>
-      <h1>зимен сезон</h1>
+      <h1>Зимен сезон</h1>
 
       <div style={{ display: "flex", gap: "20px" }}>
         <p>
